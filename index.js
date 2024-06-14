@@ -13,7 +13,7 @@ venom.create({
 
 const header = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer sk-proj-v58GXoRe2lbnyCY3iyh2T3BlbkFJ15ucaKwwkPWRWJAZcMQq"
+    "Authorization": ""
 };
 
 const start = (client) => {
