@@ -1,6 +1,6 @@
-# Chatbot Treinado com Dataset de Autismo do Reddit
+# Chatbot Treinado com Dataset de Autismo do Hugging Face
 
-Este projeto utiliza um modelo GPT-2 para treinar um chatbot com um dataset específico de autismo retirado do huggingface. 
+Este projeto utiliza um modelo GPT-2 para treinar um chatbot com um dataset específico de autismo retirado do Hugging Face. 
 O código permite carregar, treinar e validar o modelo utilizando dados textuais, além de salvar o modelo treinado para uso futuro.
 
 ## Estrutura do Projeto
