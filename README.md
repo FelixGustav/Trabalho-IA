@@ -7,8 +7,6 @@ O código permite carregar, treinar e validar o modelo utilizando dados textuais
 
 - O Arquivo finetune gera o treinamento do modelo.
 - O Arquivo Chatbot execulta a IA e gera respstas para as perguntas em inglês(obs: as perguntas devem ser feitas em inglês)
-- Configuração de argumentos de treinamento e treinamento do modelo.
-- Salvamento do modelo e do tokenizador treinados.
 
 ## Requisitos
 
