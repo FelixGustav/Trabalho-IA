@@ -1,10 +1,10 @@
 # TRABALHO-IA
 
-![GitHub repo size](https://img.shields.io/github/repo-size/FelixGustav/Trabalho-IA/)
-![GitHub language count](https://img.shields.io/github/languages/count/FelixGustav/Trabalho-IA/)
-![GitHub forks](https://img.shields.io/github/forks/FelixGustav/Trabalho-IA/)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/FelixGustav/Trabalho-IA/)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/FelixGustav/Trabalho-IA/)
+![GitHub repo size](https://img.shields.io/github/repo-size/FelixGustav/Trabalho-IA)
+![GitHub language count](https://img.shields.io/github/languages/count/FelixGustav/Trabalho-IA)
+![GitHub forks](https://img.shields.io/github/forks/FelixGustav/Trabalho-IA)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/FelixGustav/Trabalho-IA)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/FelixGustav/Trabalho-IA)
 
 <!-- <img src="imagem.png" alt="Exemplo imagem"> -->
 
