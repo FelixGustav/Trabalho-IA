@@ -21,8 +21,7 @@ O repositorio contém dois projetos de IA descrios a baixo:
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você tem uma máquina `Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-
+- Você tem uma máquina `Windows / Linux / Mac>`.
 ## 📫 Contribuindo para `TRABALHO-IA`
 
 Para contribuir com `TRABALHO-IA`, siga estas etapas:
