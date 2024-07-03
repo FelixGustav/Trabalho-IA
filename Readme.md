@@ -42,7 +42,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://i.imgur.com/0xE6Rc8.jpeg" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://i.imgur.com/0xE6Rc8.jpeg" width="100px;" alt="José Cândido"/><br>
         <sub>
           <b>José Cândido Reis de Sá</b>
         </sub>
@@ -50,7 +50,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://i.imgur.com/YgPmseJ.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://i.imgur.com/YgPmseJ.png" width="100px;" alt="Deivid"/><br>
         <sub>
           <b>Deivid Oliveira Albuquerque/b>
         </sub>
@@ -58,7 +58,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://i.imgur.com/mzQFX9h.png" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://i.imgur.com/mzQFX9h.png" width="100px;" alt="Gustavo"/><br>
         <sub>
           <b>Gustavo Felix do Rego</b>
         </sub>
